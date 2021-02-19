@@ -1,6 +1,3 @@
-% Numerical Methods in Engineering Week 2 Exercise 4
-% Dominik Lasinski 791351
-
 % Example function 1:
 f_1 = [5 6 -20];
 roots_1 = roots(f_1)
