@@ -1,4 +1,4 @@
-em x = number_to_binary(50,1);
+x = number_to_binary(50,1);
 x = number_to_binary(-0.625,2);
 x = number_to_binary(66.25);
 
