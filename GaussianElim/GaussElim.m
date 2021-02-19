@@ -1,6 +1,3 @@
-% Numerical Methods in Engineering
-% Dominik Lasinski 791351
-
 % Example
 a = [1 2 -2; 2 3 1; 3 2 -4];
 b = [9 23 11];
