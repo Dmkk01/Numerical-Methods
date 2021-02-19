@@ -1,5 +1,3 @@
-% Numerical Methods in Engineering Week 4
-% Dominik Lasinski 791351
 clearvars
 close all
 clc
