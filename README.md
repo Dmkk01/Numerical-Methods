@@ -1,6 +1,6 @@
-# Numerical Methods
+## Numerical Methods
 
-# Small projects and assignments from the field of numerical methods and computing.
+ Small projects and assignments from the field of numerical methods and computing.
 
 # CubPolynomial Fit 
 - Matlab
