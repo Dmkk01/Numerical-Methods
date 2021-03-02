@@ -42,6 +42,10 @@
 - Matlab
 - Numerical analysis on areas of circles using probabilities and random function in Matlab
 
+# Recursive Trapezoidal Rule
+- Matlab
+- Evaluates an integral using the recusrive trapezoidal method
+
 # RootsEqs
 - Matlab
 - Finds the roots of functions using built-in Matlab functions
