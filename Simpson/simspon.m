@@ -1,5 +1,3 @@
-% Numerical Methods in Engineering Week 6
-% Dominik Lasinski 791351
 close all
 clear
 clc
