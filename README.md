@@ -50,6 +50,10 @@
 - Matlab
 - Finds the roots of functions using built-in Matlab functions
 
+# Simpson
+- Matlab
+- Using Simspon 1/3 and 3/8 rule, the function calculates an integral of some given data points.
+
 # Spline Interpolation
 - Matlab
 - Uses quadratic spline intrpolation methods to fit a data set along all the intervals
