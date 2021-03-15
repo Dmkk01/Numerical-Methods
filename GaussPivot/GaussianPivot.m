@@ -3,7 +3,7 @@ a = [1 cosd(45) 0 0 1 0; 0 sind(45) 0 1 0 0; 1 0 cosd(45) 0 0 0; 0 0 sind(45) 0 
 b = [0 0 0 0 0 10]
 c = Gauss_alt_pivot(a,b)
 
-% Function
+% Function for calculating Gaussian pivoting
 function x = Gauss_alt_pivot(a, b)
 if isrow(b) % If b is a row vector we transform to a column vector
     b = transpose(b);
