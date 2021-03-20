@@ -36,7 +36,7 @@
 
 # Number to binary
 - Matlab
-- Computes the bias, exponent and mantissa of a number, with single and ouble precision
+- Computes the bias, exponent and mantissa of a number, with single and double precision
 
 # Random Prob Sim
 - Matlab
